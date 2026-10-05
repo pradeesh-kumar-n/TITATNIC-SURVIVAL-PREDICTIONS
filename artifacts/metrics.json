@@ -1,0 +1,12 @@
+{
+  "baseline_cv_mean": 0.8014,
+  "baseline_cv_std": 0.0308,
+  "tuned_cv": 0.835,
+  "holdout_accuracy": 0.8268,
+  "best_params": {
+    "classifier__max_depth": 10,
+    "classifier__min_samples_leaf": 1,
+    "classifier__min_samples_split": 6,
+    "classifier__n_estimators": 100
+  }
+}
